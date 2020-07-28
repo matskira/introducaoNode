@@ -1,3 +1,5 @@
+![NodeJS Logo](https://miro.medium.com/max/1620/1*mp91A9RzagntGGjBnwu4Yw.png)
+
 # Introdução ao NodeJS :godmode:
 Repositório do meu estudo introdutório sobre NodeJS
 
