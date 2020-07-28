@@ -50,5 +50,11 @@ Repositório do meu estudo introdutório sobre NodeJS
      ```javascript
      var recebeFuncao = require('./localDoArquivo')
      ```
-
+ 
+ 6. HTTP:
+    ![NodeJS Logo](https://miro.medium.com/max/1620/1*mp91A9RzagntGGjBnwu4Yw.png)
+    * Protocolo de transferência de dados;
+    * Conversa do HTTP Client com o HTTP Server;
+    * Através de uma requisição que traga uma resposta.
+ 
     
