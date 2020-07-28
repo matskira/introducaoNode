@@ -52,7 +52,7 @@ Repositório do meu estudo introdutório sobre NodeJS
      ```
  
  6. HTTP:
-    ![NodeJS Logo](https://miro.medium.com/max/1620/1*mp91A9RzagntGGjBnwu4Yw.png)
+    ![NodeJS Logo](https://miro.medium.com/max/428/1*I13Y5QMJPdZ05T3vhQK2aw.jpeg)
     * Protocolo de transferência de dados;
     * Conversa do HTTP Client com o HTTP Server;
     * Através de uma requisição que traga uma resposta.
